@@ -13,7 +13,7 @@
 
 I am a **Computer Science student** at **Independent University, Bangladesh**. I have a keen interest in **data science**, **machine learning**, and **cloud computing**. I also love working with **networking** and **security**. I'm passionate about creating useful tools and technologies to improve lives.  
 
-- :cat: I have a cat named **Shiro da Gama**.
+- :cat: I have a cat name **Shiro da Gama**.
 
 
 ## Get in touch!
