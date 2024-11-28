@@ -125,7 +125,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://en.m.wikipedia.org/wiki/File:Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center">
