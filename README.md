@@ -25,20 +25,8 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
 
 ## Get in touch!
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://discord.com/users/1083961986427125831">
-        <button style="padding:10px 20px; border:none; background-color:#7289DA; color:#fff; font-size:16px;">Discord</button>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/_mahbublimon">
-        <button style="padding:10px 20px; border:none; background-color:#E4405F; color:#fff; font-size:16px;">Instagram</button>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1083961986427125831)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mahbublimon)
 
 ## Programming Languages
 
