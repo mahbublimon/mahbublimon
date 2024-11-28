@@ -1,80 +1,144 @@
 # Hi there 👋
 
+<!--
+**mahbublimon/mahbublimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ## I'm Kazi Mahbub Morshed Limon
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge)  
-I am a **Computer Science student** at **Independent University, Bangladesh**, with interests in **data science**, **machine learning**, and **cloud computing**. I also love working with **medical data** and **databases**.  
-
-- :computer: I really like computers. Probably too much...
-- :book: Mostly working with **medical data**, **databases**, and **visualization projects**.
-- :cat: I have a cat, and it has 2 ears.
-
----
-
-## Profile Stats
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahbublimon?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahbublimon?label=Stars&style=for-the-badge" alt="Stars" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/mahbublimon?style=for-the-badge" alt="GitHub Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/mahbublimon?style=for-the-badge" alt="GitHub Followers" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Get in Touch!
-<div align="center">
-  <a href="https://discord.com/users/1083961986427125831">
-    <button style="background-color: #7289DA; color: white; border: none; padding: 10px 20px; margin: 5px; font-size: 14px;">Discord</button>
-  </a>
-  <a href="https://www.instagram.com/_mahbublimon">
-    <button style="background-color: #E1306C; color: white; border: none; padding: 10px 20px; margin: 5px; font-size: 14px;">Instagram</button>
-  </a>
-  <a href="mailto:mahbublimon@gmail.com">
-    <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; margin: 5px; font-size: 14px;">Email</button>
-  </a>
-</div>
+## Get in touch!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/1083961986427125831">
+        <button style="padding:10px 20px; border:none; background-color:#7289DA; color:#fff; font-size:16px;">Discord</button>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_mahbublimon">
+        <button style="padding:10px 20px; border:none; background-color:#E4405F; color:#fff; font-size:16px;">Instagram</button>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Programming Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Frameworks and Libraries
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tools and Platforms
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
+      <br>Notion
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+      <br>Unreal Engine
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Cloud Platforms and Databases
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-</div>
 
----
-
-Thanks for visiting my profile! :smile:
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      <br>Google Cloud
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
