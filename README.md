@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=UdoyBH&style=for-the-badge" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="views" />
   </a>
   <a href="https://discord.com/users/1083961986427125831">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=fff" />
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
   <img width="120" src="https://i.ibb.co/ZcTHv0t/cat-injection.png" align="right" />
 </a>
 
-
 - :computer: &nbsp;I really like computers. Probably too much...
-- :syringe: &nbsp;I am a medical student in undergraduate phase.
+- :syringe: &nbsp;I am a medical student in the undergraduate phase.
 - :book: &nbsp;Mostly working with medical data / databases and visualization projects.
 - :book: &nbsp;Interested in machine learning and AI.
-- :cat: &nbsp;I have a cat, It has 2 ears.
+- :cat: &nbsp;I have a cat. It has 2 ears.
 
-<h3 align="left">Stuffs I Do :</h2>
+### Stuffs I Do:
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -63,30 +63,30 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96"> 
-      <a href="#" >
+      <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo" />
       </a>
       <br>Mongo
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
@@ -94,6 +94,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
-<div class="right" style="display:flex; flex-direction: row;">
-</div>
+<div style="display: flex; flex-direction: row;"></div>
