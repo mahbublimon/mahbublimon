@@ -1,97 +1,55 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **mahbublimon/mahbublimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1 align="left">:wave: I'm Limon</h1>
+## I'm Kazi Mahbub Morshed Limon
 
-<p align="left">
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="views" />
-  </a>
-  <a href="https://discord.com/users/1083961986427125831">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=fff" />
-  </a>
-  <a href="https://www.instagram.com/_mahbublimon">
-    <img src="https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram&logoColor=fff" alt="insta" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge)
 
-<a align="right" href="#">
-  <img width="120" src="https://i.ibb.co/ZcTHv0t/cat-injection.png" align="right" />
-</a>
+I am a **Computer Science student** at **Independent University, Bangladesh**. I have a keen interest in **data science**, **machine learning**, and **cloud computing**. I also love working with **medical data** and **databases**. I'm passionate about creating useful tools and technologies to improve lives.
 
-- :computer: &nbsp;I really like computers. Probably too much...
-- :syringe: &nbsp;I am a medical student in the undergraduate phase.
-- :book: &nbsp;Mostly working with medical data / databases and visualization projects.
-- :book: &nbsp;Interested in machine learning and AI.
-- :cat: &nbsp;I have a cat. It has 2 ears.
+- :computer: I really like computers. Probably too much...
+- :syringe: I am a **medical student** in my undergraduate phase.
+- :book: Mostly working with **medical data**, **databases**, and **visualization projects**.
+- :book: Interested in **machine learning** and **AI**.
+- :cat: I have a cat, and it has 2 ears.
 
-### Stuffs I Do:
+## Get in touch! 
+- [Discord](https://discord.com/users/1083961986427125831)
+- [Instagram](https://www.instagram.com/_mahbublimon)
+- [GitHub Profile Views](https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
-      </a>
-      <br>R Lang
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96"> 
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo" />
-      </a>
-      <br>Mongo
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+---
 
-<div style="display: flex; flex-direction: row;"></div>
+## Technologies I Use
+
+### Programming Languages
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+
+### Frameworks and Libraries
+![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg)
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
+
+### Tools and Platforms
+![Visual Studio Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![Notion](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg)
+![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg)
+![Unreal Engine](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg)
+
+### Cloud Platforms and Databases
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg)
+![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+
+Thanks for visiting my profile! :smile:
