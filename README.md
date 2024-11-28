@@ -20,8 +20,6 @@
   </tr>
 </table>
 
----
-
 ## Get in touch!
 
 <table>
@@ -38,8 +36,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Programming Languages
 
@@ -68,8 +64,6 @@
   </tr>
 </table>
 
----
-
 ## Frameworks and Libraries
 
 <table>
@@ -88,8 +82,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Tools and Platforms
 
@@ -117,8 +109,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Cloud Platforms and Databases
 
