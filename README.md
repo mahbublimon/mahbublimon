@@ -3,6 +3,11 @@
 <!--
 **mahbublimon/mahbublimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/mahbublimon?style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/mahbublimon?style=for-the-badge" alt="GitHub Followers" />
+</p>
 
 ## I'm Kazi Mahbub Morshed Limon
 
