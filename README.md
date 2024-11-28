@@ -6,13 +6,12 @@
 
 ## I'm Kazi Mahbub Morshed Limon
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahbublimon&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/mahbublimon?style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/mahbublimon?style=for-the-badge" alt="GitHub Followers" />
-</p>
+I am a **Computer Science student** at **Independent University, Bangladesh**.  
+I have a keen interest in **data science**, **machine learning**, and **cloud computing**.  
+I also love working with **networking** and **security**.  
+I'm passionate about creating useful tools and technologies to improve lives.  
+- :cat: I have a cat named **Shiro da Gama**.
 
----
 
 ## Get in touch!
 
@@ -25,7 +24,6 @@
   </a>
 </p>
 
----
 
 ## Programming Languages
 
@@ -54,7 +52,6 @@
   </tr>
 </table>
 
----
 
 ## Frameworks and Libraries
 
@@ -75,7 +72,6 @@
   </tr>
 </table>
 
----
 
 ## Tools and Platforms
 
@@ -104,7 +100,6 @@
   </tr>
 </table>
 
----
 
 ## Cloud Platforms and Databases
 
@@ -129,6 +124,4 @@
   </tr>
 </table>
 
----
-
-![Metrics](https://metrics.lecoq.io/mahbublimon?template=classic)
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
