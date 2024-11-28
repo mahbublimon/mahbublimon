@@ -104,7 +104,7 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center">
