@@ -121,5 +121,3 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
     </td>
   </tr>
 </table>
-
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
