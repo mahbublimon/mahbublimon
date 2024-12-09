@@ -32,6 +32,10 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
 <table>
   <tr>
     <td align="center" width="100" height="100">
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain.svg" width="48" height="48" alt="Python" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
