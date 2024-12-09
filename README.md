@@ -109,8 +109,8 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
 <table>
   <tr>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+      <br>Amazon Web Services
     </td>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
