@@ -113,8 +113,8 @@ I am a **Computer Science student** at **Independent University, Bangladesh**. I
       <br>Amazon Web Services
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
-      <br>Google Cloud
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud Platform" />
+      <br>Google Cloud Platform
     </td>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
